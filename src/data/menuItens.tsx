@@ -46,4 +46,14 @@ export const menuItems: MenuItem[] = [
     icon: 'download-outline',
     component: 'ScrollScreen',
   },
+  {
+    name: 'Slide Screen',
+    icon: 'flower-outline',
+    component: 'SlidesScreen',
+  },
+  {
+    name: 'Theme',
+    icon: 'color-palette-outline',
+    component: 'ChangeThemeScreen',
+  },
 ];
