@@ -14,9 +14,9 @@ export const lightTheme: ThemeState = {
   colors: {
     primary: '#084f6a',
     background: 'white',
-    card: 'green',
+    card: 'white',
     text: 'black',
-    border: 'orange',
+    border: 'black',
     notification: 'teal',
   },
 };
